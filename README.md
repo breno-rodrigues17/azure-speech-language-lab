@@ -36,6 +36,16 @@ Este repositório documenta minha prática com o Azure Speech Studio e Language 
 
 ---
 
+## ▶️ Como reproduzir
+
+1. Acesse [Speech Studio](https://speech.microsoft.com/)
+2. Faça login com sua conta Azure
+3. Vá em **Speech Translation**
+4. Faça upload de um arquivo de áudio `.mp3`
+5. Observe a transcrição e tradução automática
+
+---
+
 ## 📌 Conclusão
 
 Essa prática demonstrou a eficácia das soluções de IA da Microsoft para aplicar em situações do mundo real, como:
